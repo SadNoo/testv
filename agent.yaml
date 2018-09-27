@@ -1,0 +1,6 @@
+mod:
+  nodeId: 1
+
+database: 
+  user: ss
+  pass: ss
